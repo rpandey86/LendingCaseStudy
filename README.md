@@ -29,7 +29,7 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 Loan rejected: The company had rejected the loan. Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company
 
 ## Conclusions
--Following elements can be used by company as driving factors to determine loan processing. 
+Following elements can be used by company as driving factors to determine loan processing. 
 
 
 ## Technologies Used
