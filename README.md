@@ -5,14 +5,14 @@ This case helps in providing understanding how real time business problems are s
 
 
 ## Table of Contents
-* [Business Problem](#Business Problem)
+* [General Information](#General-Information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## Business Problem
+## General Information
 
 
 
