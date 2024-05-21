@@ -1,5 +1,7 @@
 # Lending Club Project
-> Outline a brief description of your project.
+Introduction - This case study helps us in solving the real business problem. 
+In this case study we need to apply knowledge of Univariate analysis and Bivariate analysis. 
+This case helps in providing understanding how real time business problems are solved using EDA. 
 
 
 ## Table of Contents
