@@ -2,6 +2,7 @@
 Introduction - This case study helps us in solving the real business problem. 
 In this case study we need to apply knowledge of Univariate analysis and Bivariate analysis. 
 This case helps in providing understanding how real time business problems are solved using EDA. 
+In this case study we to understand how consumer attributes and loan attributes influence company decision for loan processing. 
 
 
 ## Table of Contents
@@ -13,10 +14,12 @@ This case helps in providing understanding how real time business problems are s
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+A consumer finance company has whose business is lending money to various types to customers. 
+The company needs to determine the eligibility of the cusotmer for the loan applied depending upon cusotmer profile. 
+The company needs to do risk assessment of the loan based on customer profile.
+There are two types of risks 
+i). Customer is 'likely to pay loan' then not approving the loan results in a loss of business to the company.
+ii). Customer is 'not likely to repay the loan' then approving the loan may lead to a financial loss for the company. 
 
 ## Conclusions
 - Conclusion 1 from the analysis
