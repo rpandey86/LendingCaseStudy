@@ -21,27 +21,28 @@ There are two types of risks
 i). Customer is 'likely to pay loan' then not approving the loan results in a loss of business to the company.
 ii). Customer is 'not likely to repay the loan' then approving the loan may lead to a financial loss for the company. 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+If the company approves the loan, there are 3 possible scenarios described below:
+Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
+Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
+Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Loan rejected: The company had rejected the loan. Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company
+
+## Conclusions
+Following elements can be used by company as driving factors to determine loan processing. 
+-
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Git Hub
+- Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad. 
+
 
 
 ## Contact
