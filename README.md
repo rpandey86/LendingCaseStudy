@@ -51,12 +51,10 @@ The best driving features for the Loan default analysis are:
 <ul>
 <li>term
 <li>grade
-<li>purpose
-<li>revol_util
-<li>int_rate
-<li>installment
-<li>annual_inc
-<li>funded_amnt_inv
+<li>Public Record for bankruptcies
+<li>Interest rate
+<li>Grade
+<li>Sub Grade
 </ul>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
