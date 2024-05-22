@@ -19,14 +19,13 @@ In this case study we to understand how consumer attributes and loan attributes 
 ## Conclusions
 - Driving factors for loan approval from the analysis
 The best driving features for the Loan default analysis are: 
-<ul>
-<li>term
-<li>grade
-<li>Public Record for bankruptcies
-<li>Interest rate
-<li>Grade
-<li>Sub Grade
-</ul>
+term
+grade
+Public Record for bankruptcies
+Interest rate
+Grade
+Sub Grade
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
