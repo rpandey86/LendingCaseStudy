@@ -30,7 +30,7 @@ Loan rejected: The company had rejected the loan. Since the loan was rejected, t
 
 ## Conclusions
 Following elements can be used by company as driving factors to determine loan processing. 
-
+Loan Amount , Annual Salary, Loan Status, Home Ownership, Employment lenght
 
 ## Technologies Used
 - Git Hub
